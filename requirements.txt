@@ -1,0 +1,7 @@
+openai
+anthropic
+google-generativeai
+requests
+rich
+prompt_toolkit
+psutil
